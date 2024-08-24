@@ -1,5 +1,9 @@
 One more text
 
-это Петя на 3ей ветке что-то написал.
+
+Im on Master now. Hi!
+
+branch2 created from branch1
 
 Петины изменения с 3ей ветки удалили. Петя сделал новые изменения
+
